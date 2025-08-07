@@ -1,6 +1,5 @@
 # Weather App
 
-[![License](https://img.shields.io/github/license/your-username/vue-weather-app)](LICENSE)
 [![Vue 3](https://img.shields.io/badge/Vue-3.x-brightgreen.svg)](https://vuejs.org/)
 [![WeatherAPI](https://img.shields.io/badge/API-WeatherAPI-blue.svg)](https://www.weatherapi.com/)
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-ff69b4)](#)
