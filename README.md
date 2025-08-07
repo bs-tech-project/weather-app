@@ -1,10 +1,11 @@
 # Weather App
 
+A beginner-friendly, modern weather app built with **Vue 3** and **WeatherAPI**. Search any city to get real-time weather data like temperature, wind, condition – with a responsive and clean UI.
+
 [![Vue 3](https://img.shields.io/badge/Vue-3.x-brightgreen.svg)](https://vuejs.org/)
 [![WeatherAPI](https://img.shields.io/badge/API-WeatherAPI-blue.svg)](https://www.weatherapi.com/)
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-ff69b4)](#)
-
-A beginner-friendly, modern weather app built with **Vue 3** and **WeatherAPI**. Search any city to get real-time weather data like temperature, wind, condition – with a responsive and clean UI.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d1a91020-f106-4832-96e6-6cdc90c75b90/deploy-status)](https://app.netlify.com/projects/basic-vue-todo-list/deploys)
 
 <img width="450" height="450" alt="Weather-App-08-07-2025_05_30_PM" src="https://github.com/user-attachments/assets/2ec10c9f-d801-43c8-8c7a-eae0705840d0" />
 
